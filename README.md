@@ -12,8 +12,7 @@ Usage:
 
 
 FASTA File Example
->test_sequence
-
+>>test_sequence
 ATGCGATACGCTTGAATTCGCGCGATAG
 
 Expected Output for Example:
