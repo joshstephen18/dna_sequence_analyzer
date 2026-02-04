@@ -27,10 +27,8 @@ C: 6
 
 Restriction enzyme sites:
 EcoRI found at positions: [14]
-
-BamHI not found
-
-HindIII not found
+,BamHI not found
+,HindIII not found
 
 Reverse complement:
 CTATCGCGCGAATTCAAGCGTATCGCAT
