@@ -12,6 +12,7 @@ FASTA File Example
 ATGCGATACGCTTGAATTCGCGCGATAG
 
 Expected Output for Example:
+
 Sequence Length:
 28
 
