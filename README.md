@@ -8,7 +8,7 @@ Usage:
 
 -enter the path to your FASTA file when prompted (for test case, enter: test_sequence.fasta)
 
--follow the prompts, and the program will output the following: sequence length, GC content (%), nucleotide counts, restriction enzyme sites, reverse complement, codon counts, and an nucleotide composition bar chart if "y" is typed when prompted.
+-follow the prompts, and the program will output the following: sequence length, GC content (%), nucleotide counts, restriction enzyme sites, reverse complement, codon counts, and a nucleotide composition bar chart if "y" is typed when prompted.
 
 
 FASTA File Example
