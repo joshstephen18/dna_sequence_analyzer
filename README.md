@@ -1,4 +1,4 @@
-# DNA Sequence Analyzer
+# 🧬 DNA Sequence Analyzer
 
 Project Description: This program is designed to allow users/researchers to input DNA sequences in the form of FASTA files for analysis. 
 
