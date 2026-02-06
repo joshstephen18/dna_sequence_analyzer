@@ -2,7 +2,7 @@
 
 Project Description: This program is designed to allow users/researchers to input DNA sequences in the form of FASTA files for analysis. 
 
-Features:
+## Features:
 
 🧬 Nucleotide Statistics: Total length and automated counts for A, T, C, and G.
 
@@ -15,7 +15,7 @@ Features:
 📊 Visualization: Optional bar chart generation for composition analysis.
 
 
-Getting Started / Usage:
+## Getting Started / Usage:
 1. Ensure installation of libraries (pip install numpy matplotlib) and clone this repository.
 
 2. Run the main script (main.py)
@@ -25,11 +25,11 @@ Getting Started / Usage:
 4. Follow the prompts, and the program will output the following: sequence length, GC content (%), nucleotide counts, restriction enzyme sites, reverse complement, codon counts, and a nucleotide composition bar chart if "y" is typed when prompted.
 
 
-FASTA File Example
+## FASTA File Example
 >test_sequence
 ATGCGATACGCTTGAATTCGCGCGATAG
 
-Expected Output for Example:
+### Expected Output for Example:
 
 Sequence Length: 28
 
@@ -58,7 +58,7 @@ Do you want to see a nucleotide composition plot? (y/n): y
   plots/nucleotide_composition.png
 
 
-  Future improvements/next steps:
+  ### Future improvements/next steps:
   1. Modify script to support multiple FASTA sequences in a single file instead of a single sequence.
   
 
