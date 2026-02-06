@@ -2,7 +2,7 @@
 
 Project Description: This program is designed to allow users/researchers to input DNA sequences in the form of FASTA files for analysis. 
 
-## 🌟Features:
+## 🌟 Features:
 
 🧮 Nucleotide Statistics: Total length and automated counts for A, T, C, and G.
 
@@ -15,7 +15,7 @@ Project Description: This program is designed to allow users/researchers to inpu
 📊 Visualization: Optional bar chart generation for nucleotide composition analysis.
 
 
-## 🚀Getting Started / Usage:
+## 🚀 Getting Started / Usage:
 1. Ensure installation of libraries (pip install numpy matplotlib) and clone this repository.
 
 2. Run the main script (main.py)
@@ -66,7 +66,7 @@ Do you want to see a nucleotide composition plot? (y/n): y
 
 
 
-  ## 💻Libraries used:
+  ## 💻 Libraries used:
   1. NumPy for numerical operations
   2. Matplotlib for nucleotide composition bar chart
   3. collections (Python standard library) - specifically Counter for counting codons and nucleotides
