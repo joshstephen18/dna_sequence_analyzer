@@ -4,7 +4,7 @@ Project Description: This program is designed to allow users/researchers to inpu
 
 ## Features:
 
-🧬 Nucleotide Statistics: Total length and automated counts for A, T, C, and G.
+🧮 Nucleotide Statistics: Total length and automated counts for A, T, C, and G.
 
 🧪 GC Content: Precise percentage calculation for stability analysis.
 
