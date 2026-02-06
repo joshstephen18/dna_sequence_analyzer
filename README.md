@@ -4,11 +4,11 @@ Project Description: This program is designed to allow users/researchers to inpu
 
 Usage:
 
-1. run the program (main.py)
+1. Run the program (main.py)
 
-2. enter the path to your FASTA file when prompted (for test case, enter: test_sequence.fasta)
+2. Enter the path to your FASTA file when prompted (for test case, enter: test_sequence.fasta)
 
-3. follow the prompts, and the program will output the following: sequence length, GC content (%), nucleotide counts, restriction enzyme sites, reverse complement, codon counts, and a nucleotide composition bar chart if "y" is typed when prompted.
+3. Follow the prompts, and the program will output the following: sequence length, GC content (%), nucleotide counts, restriction enzyme sites, reverse complement, codon counts, and a nucleotide composition bar chart if "y" is typed when prompted.
 
 
 FASTA File Example
