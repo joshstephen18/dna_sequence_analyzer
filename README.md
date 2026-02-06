@@ -15,7 +15,7 @@ Project Description: This program is designed to allow users/researchers to inpu
 5. Visualization: Optional bar chart generation for nucleotide composition analysis.
 
 
-## 🚀 Getting Started / Usage
+## 🛠️ Getting Started / Usage
 1. Ensure installation of libraries (pip install numpy matplotlib) and clone this repository.
 
 2. Run the main script (main.py)
