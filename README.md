@@ -58,7 +58,7 @@ Do you want to see a nucleotide composition plot? (y/n): y
   plots/nucleotide_composition.png
 
 
-  ## Future improvements/next steps:
+  ## ⏭️ Future improvements/next steps:
   1. Modify script to support multiple FASTA sequences in a single file instead of a single sequence.
   
 
