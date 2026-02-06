@@ -54,6 +54,14 @@ Do you want to see a nucleotide composition plot? (y/n): y
   plots/nucleotide_composition.png
 
 
+  Future improvements/next steps:
+  1. Modify script to support multiple FASTA sequences in a single file instead of a single sequence.
+  
+
+  2. Add automatic FASTA file validation to catch user error (malformed headers, invalid characters, empty files)
+
+
+
   Libraries used:
   1. NumPy for numerical operations
   2. matplotlib for nucleotide composition bar chart
