@@ -58,7 +58,7 @@ Do you want to see a nucleotide composition plot? (y/n): y
   plots/nucleotide_composition.png
 
 
-  ### Future improvements/next steps:
+  ## Future improvements/next steps:
   1. Modify script to support multiple FASTA sequences in a single file instead of a single sequence.
   
 
@@ -66,7 +66,7 @@ Do you want to see a nucleotide composition plot? (y/n): y
 
 
 
-  ### Libraries used:
+  ## Libraries used:
   1. NumPy for numerical operations
   2. Matplotlib for nucleotide composition bar chart
   3. collections (Python standard library) - specifically Counter for counting codons and nucleotides
