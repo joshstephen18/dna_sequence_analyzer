@@ -58,7 +58,7 @@ Do you want to see a nucleotide composition plot? (y/n): y
   1. Modify script to support multiple FASTA sequences in a single file instead of a single sequence.
   
 
-  2. Add automatic FASTA file validation to catch user error (malformed headers, invalid characters, empty files)
+  2. Add automatic FASTA file validation to catch user error (malformed headers, invalid characters, empty files).
 
 
 
